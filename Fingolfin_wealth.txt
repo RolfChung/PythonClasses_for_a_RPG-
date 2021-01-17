@@ -1,0 +1,27 @@
+# Creating Python classes for an online fantasy RPG inspired by Lord of the Rings
+
+<p>
+This project explores Python classes in the context of a role play game.
+It creates characters known from the Tolkien universe and defines actions.
+It must not be taken too serious. 
+</p> 
+
+<p>
+It explores these topics and others:
+</p> 
+
+<ul>
+  <li>Classes and objects</li>
+  <li>States and behaviors of objects</li>
+  <li>Attributes + methods</li>
+  <li>Instance and class data</li>  
+  <li>Class inheritance</li>
+  <li>Customizing functions</li>   
+  <li>Object equality</li>
+  <li>String comparison</li>  
+  <li>Exceptions</li> 
+  <li>Polymorphism and the Liskov substitution principle</li>  
+  <li>Access restriction</li> 
+
+</ul> 
+
